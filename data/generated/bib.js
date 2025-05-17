@@ -1,4 +1,4 @@
-﻿const generatedBibEntries = {
+const generatedBibEntries = {
     "forrai2023": {
         "author": "Forrai, B. and others",
         "booktitle": "IEEE International Conference on Robotics and Automation (ICRA)",
